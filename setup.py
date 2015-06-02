@@ -11,9 +11,9 @@ here = path.abspath(path.dirname(__file__))
 
 setup(
     name='horse-lastfm',
-    version='0.1.0',
+    version='0.1.1',
 
-    description='A chat bot framework for Slack',
+    description='LastFM integration bridle for Horse',
     long_description="""
 """,
 
